@@ -1,0 +1,14 @@
+{
+  "name": "gohar",
+  "version": "1.0.0",
+  "description": "its your boy g7boss",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gohar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
